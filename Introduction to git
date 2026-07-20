@@ -10,3 +10,30 @@ Nextgen project at AMES
 --> Nextgen is an AMES project comprising 150 software developers and aeroneutical engineers
 
 --> this project aims to enable the national air transportion system design to ensure maximum safety,reliability,efficiency
+
+
+
+what could be the possible challenges of this machine with in the development team
+==================================================================================
+
+--> how to develop software collaboratively and securely while adhering to NASA approved processes and guidelines?
+
+--> how to maintain and control the version of the codes?
+
+--> how to create and maintain remote repositories?
+
+--> how to branch and merge the codes within the main repository?
+
+--> how to maintain a local repository with the  same features to protect the server data and many more?
+
+--> many projects faces similar challenges
+
+how does  nextgen resolve them
+=============================
+--> git to the rescue
+
+--> NEXTGEN uses git
+
+
+
+
