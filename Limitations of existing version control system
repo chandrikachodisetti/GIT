@@ -1,0 +1,16 @@
+why choose git over the existing  version control systems
+
+Limitations of existing version control systems
+--> existing version control systems have centralized architecture this means there is a single central server that stores  all the  project files
+--> Changes canot be done offline
+user->retrieve files->make changes->commit
+users can retrieve the files to the workspaces make neccessary changes and commit them to the central server
+-->All changes made in central server
+--> users must be connecting to the central server to make any neccessary changes and rectify the errors this means there is no room for error
+these are the  major challenges existing  version control system it is difficult to work with this so git is the one stop solution 
+
+WHAT IS GIT?
+- GIT IS VERSION CONTROL SYSTEM
+- IT IS A DISTRIBUTED VERSION CONTROL SYSTEM SUCH AS SPEED, DATA INTEGRITY, SECURITY
+- GIT IS ORIGINALLY DEVELPED BY LINUSTORVAULDS  IN 2005 HE IS A CREATOR OF GIT
+- GIT IS DESIGNED FOR OVERCOME THE LIMITATIONS TO  THE OTHER VERSION CONTROL SYSTEMS
