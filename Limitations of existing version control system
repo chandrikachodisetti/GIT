@@ -6,7 +6,7 @@ Limitations of existing version control systems
 user->retrieve files->make changes->commit
 users can retrieve the files to the workspaces make neccessary changes and commit them to the central server
 -->All changes made in central server
---> users must be connecting to the central server to make any neccessary changes and rectify the errors this means there is no room for error
+--> users must be connecting to the central server to make any neccessary changes and  errors this means there is no room for error
 these are the  major challenges existing  version control system it is difficult to work with this so git is the one stop solution 
 
 WHAT IS GIT?
